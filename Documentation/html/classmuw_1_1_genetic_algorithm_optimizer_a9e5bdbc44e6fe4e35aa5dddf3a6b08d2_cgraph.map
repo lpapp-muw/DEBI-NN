@@ -1,0 +1,3 @@
+<map id="muw::GeneticAlgorithmOptimizer::offspring" name="muw::GeneticAlgorithmOptimizer::offspring">
+<area shape="rect" id="node1" title="Creates an offspring from the parents by modeling crossover and mutation." alt="" coords="5,29,219,71"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmuw_1_1_abstract_analytics.html" title="The AbstractAnalytics class is a base class for all other analytics classes to provide a unified inte..." alt="" coords="5,31,165,57"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_confusion_matrix_analytics.html" title="The ConfusionMatrixAnalytics class is an inherited class from AbstractAnalytics. Manifests analytics ..." alt="" coords="213,5,417,32"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_loss_analytics.html" title="The LossAnalytics class is an inherited class from AbstractAnalytics. Manifests analytics based on lo..." alt="" coords="246,56,385,83"/>
+</map>

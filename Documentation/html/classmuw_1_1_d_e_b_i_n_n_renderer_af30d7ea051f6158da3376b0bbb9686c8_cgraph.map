@@ -1,0 +1,5 @@
+<map id="muw::DEBINNRenderer::DEBINNRenderer" name="muw::DEBINNRenderer::DEBINNRenderer">
+<area shape="rect" id="node1" title="Constructor." alt="" coords="5,5,163,47"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_d_e_b_i_n_n_renderer.html#a40bbddb5a2b3664db2172de8afa1a25f" title="Initializes the renderer by reading out parameters from its setting container." alt="" coords="211,5,368,47"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_palette.html#acb3350041ce9c86897cbb263c264c8de" title="Sets the position&#45;color control points and the required resolution for creating a palette." alt="" coords="416,5,581,47"/>
+</map>

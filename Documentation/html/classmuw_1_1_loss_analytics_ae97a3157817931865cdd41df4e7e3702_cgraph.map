@@ -1,0 +1,11 @@
+<map id="muw::LossAnalytics::evaluate" name="muw::LossAnalytics::evaluate">
+<area shape="rect" id="node1" title="Evaluates the given model by the predefined unit type. Currently, the only implemented option is entr..." alt="" coords="5,191,144,232"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_abstract_model.html#a0f0645d6cf2642698eb05a6c905da369" title="Evaluates the input feature vector and returns with a prediction." alt="" coords="237,5,378,47"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_data_package.html#ae989e19cfbecd5e18b301d3a83f72895" title=" " alt="" coords="207,71,407,98"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_data_package.html#a415ddd13dc1a2e47aebc2781c6772f14" title=" " alt="" coords="213,122,401,149"/>
+<area shape="rect" id="node5" href="$classmuw_1_1_data_package.html#a5c474e945ca604cd9897ddfb1455841a" title=" " alt="" coords="207,173,408,199"/>
+<area shape="rect" id="node6" href="$classmuw_1_1_data_package.html#af386b44ac6a704e410bb6600b3d73cc2" title=" " alt="" coords="192,223,423,250"/>
+<area shape="rect" id="node7" href="$classmuw_1_1_data_package.html#aa75b1fcfae80755b5b36147b23f5bd9f" title=" " alt="" coords="200,274,415,301"/>
+<area shape="rect" id="node8" href="$classmuw_1_1_tabular_data.html#a5d93a24789ae682b52d42041df7a9700" title="Returns with the row of the respected key." alt="" coords="226,325,389,351"/>
+<area shape="rect" id="node9" href="$classmuw_1_1_tabular_data.html#a873246d0f3cf0eef824f13051624149c" title="Returns with the value of the respected key and column index." alt="" coords="219,375,395,402"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="muw::TabularData::column" name="muw::TabularData::column">
+<area shape="rect" id="node1" title="Returns with the column as of the input column name." alt="" coords="5,71,181,97"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_tabular_data.html#a6a68cea41ac9e4fa3680cebfd26819b8" title="Returns with the column as of the input column index." alt="" coords="229,29,405,56"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_tabular_data.html#a151fe53cc508d53df4d89847a1bf8969" title="Returns with the header names of the table." alt="" coords="231,105,404,146"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_tabular_data.html#a9002777f31a0bf1b0b15e6e33704e804" title="Returns with the unique keys located in the table." alt="" coords="453,29,616,56"/>
+</map>

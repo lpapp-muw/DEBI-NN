@@ -1,0 +1,5 @@
+<map id="muw::TabularDataFileIo::load" name="muw::TabularDataFileIo::load">
+<area shape="rect" id="node1" title="Loads a CSV file to an input tabular data. Note that in case a working directory was not provided in ..." alt="" coords="5,23,163,65"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_tabular_data.html#aa1d814136bdc483fbdbaf680588984a9" title="Returns with the map representing the table header." alt="" coords="211,5,384,32"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_tabular_data.html#a478c9249f16957d554b4cbaa22fac76f" title="Inserts a new value identified with the key." alt="" coords="214,56,381,83"/>
+</map>

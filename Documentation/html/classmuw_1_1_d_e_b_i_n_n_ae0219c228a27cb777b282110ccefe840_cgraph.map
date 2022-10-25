@@ -1,0 +1,8 @@
+<map id="muw::DEBINN::save" name="muw::DEBINN::save">
+<area shape="rect" id="node1" title="Saves the network to the file provided as input in binary format." alt="" coords="5,81,144,108"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_d_e_b_i_n_n.html#ab7ea271a3c2c81fcfb8217c036fe5b62" title="Returns with all trainable parameters of the network." alt="" coords="192,81,371,108"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_d_e_b_i_neuron.html#a924aba28ea0db39d42bdf7a89e41965a" title=" " alt="" coords="421,5,630,32"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_d_e_b_i_n_n.html#aa8db67d8f573729156831219e5df319c" title="Returns with all neurons of all layers of the network." alt="" coords="430,56,621,83"/>
+<area shape="rect" id="node5" href="$classmuw_1_1_d_e_b_i_neuron.html#adfdcf0417455fcfbda41a93a9b8fadd3" title=" " alt="" coords="424,107,627,133"/>
+<area shape="rect" id="node6" href="$classmuw_1_1_d_e_b_i_neuron.html#a53fe53686feb759dd2ae6314f6bc78ba" title=" " alt="" coords="419,157,632,184"/>
+</map>

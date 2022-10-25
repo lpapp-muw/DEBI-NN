@@ -1,0 +1,4 @@
+<map id="muw::DEBINN::center" name="muw::DEBINN::center">
+<area shape="rect" id="node1" title="Calculates the center coordinate of the neural network." alt="" coords="5,29,155,56"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_d_e_b_i_n_n.html#a471092af92bf5ad20bed3995b1c02545" title="Calculates the spatial bounding box enclosing the network." alt="" coords="203,29,445,56"/>
+</map>

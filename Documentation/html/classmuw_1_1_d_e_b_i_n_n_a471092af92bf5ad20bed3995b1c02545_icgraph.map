@@ -1,0 +1,6 @@
+<map id="muw::DEBINN::calculateBoundingBox" name="muw::DEBINN::calculateBoundingBox">
+<area shape="rect" id="node1" title="Calculates the spatial bounding box enclosing the network." alt="" coords="657,29,900,56"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_d_e_b_i_n_n.html#a9f5f7e8a1a93d56b5ceca7da9a0873ab" title="Calculates the center coordinate of the neural network." alt="" coords="460,29,609,56"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_d_e_b_i_n_n_renderer.html#a4d3b9c86e74c1d5bfadcf3d341e35b81" title="Creates a scene based on the input DEBI neural network and the internal rendering settings." alt="" coords="255,22,412,63"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_d_e_b_i_n_n_render_controller.html#a3736cab14384f3f4e7115fa8df7c2323" title="Creates scenes for each input DEBI model to visualize." alt="" coords="5,22,207,63"/>
+</map>

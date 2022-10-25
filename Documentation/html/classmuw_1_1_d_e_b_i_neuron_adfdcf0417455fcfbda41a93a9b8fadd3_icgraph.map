@@ -1,0 +1,7 @@
+<map id="muw::DEBINeuron::neuronType" name="muw::DEBINeuron::neuronType">
+<area shape="rect" id="node1" title=" " alt="" coords="616,38,819,65"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_d_e_b_i_n_n.html#ab7ea271a3c2c81fcfb8217c036fe5b62" title="Returns with all trainable parameters of the network." alt="" coords="389,38,568,65"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_d_e_b_i_n_n.html#a3145347b4ac60781ffc9cbece2ecddda" title="Loads the network from the file provided as input." alt="" coords="203,13,341,39"/>
+<area shape="rect" id="node5" href="$classmuw_1_1_d_e_b_i_n_n.html#ae0219c228a27cb777b282110ccefe840" title="Saves the network to the file provided as input in binary format." alt="" coords="203,63,341,90"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_d_e_b_i_n_n_factory.html#aa7111e52f734e880a980374407d8e93b" title="Generates a trained DEBI neural network by loading it up from a saved file." alt="" coords="5,5,155,47"/>
+</map>

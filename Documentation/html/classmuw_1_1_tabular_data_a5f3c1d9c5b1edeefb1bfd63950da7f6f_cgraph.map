@@ -1,0 +1,7 @@
+<map id="muw::TabularData::mins" name="muw::TabularData::mins">
+<area shape="rect" id="node1" title="Returns with the minimums of each column in the table." alt="" coords="5,54,168,81"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_tabular_data.html#a7e6354d181112292562e67dc4e7db936" title="Returns with the column count of the table." alt="" coords="216,5,392,47"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_tabular_data.html#a19a43e4ef5d69dacca51774c2670d4ce" title="Calculates the minimum of the given column." alt="" coords="227,95,381,122"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_tabular_data.html#a6a68cea41ac9e4fa3680cebfd26819b8" title="Returns with the column as of the input column index." alt="" coords="440,95,616,122"/>
+<area shape="rect" id="node5" href="$classmuw_1_1_tabular_data.html#a9002777f31a0bf1b0b15e6e33704e804" title="Returns with the unique keys located in the table." alt="" coords="664,95,827,122"/>
+</map>

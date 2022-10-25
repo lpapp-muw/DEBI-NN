@@ -1,0 +1,5 @@
+<map id="muw::DEBINNRenderController::selectModel" name="muw::DEBINNRenderController::selectModel">
+<area shape="rect" id="node1" title="Sets the model intex to the input one to visualize the respective DEBINN model." alt="" coords="504,35,705,76"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_d_e_b_i_n_n_render_controller.html#ab1fa713d35fe2175ab678d7c8d32e730" title="Scrolls through the DEBINN models automatically and grabs their screen to ave them to PNG format." alt="" coords="255,5,456,47"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_d_e_b_i_n_n_render_controller.html#a587ca9fd9e1b2350a99a47ad51e5960a" title="Constructor." alt="" coords="5,35,207,76"/>
+</map>

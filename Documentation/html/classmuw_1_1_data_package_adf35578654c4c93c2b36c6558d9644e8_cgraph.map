@@ -1,0 +1,17 @@
+<map id="muw::DataPackage::DataPackage" name="muw::DataPackage::DataPackage">
+<area shape="rect" id="node1" title="Constructor." alt="" coords="5,173,227,199"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_data_package.html#af195e1925fb1a8d9a46822f1c9996545" title="initializes the data package as of the input parameters." alt="" coords="275,173,465,199"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_tabular_data.html#a7e6354d181112292562e67dc4e7db936" title="Returns with the column count of the table." alt="" coords="513,5,689,47"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_tabular_data_filter.html#abee92c9aab6370f740edc5e47eef2513" title="Identifies the common keys of the feature and label databases as of the current label." alt="" coords="747,123,902,164"/>
+<area shape="rect" id="node8" href="$classmuw_1_1_tabular_data_filter.html#a2f45fd0a5400d7cb4f3fbb7b55ee81b9" title="Erases records from the dabular data if there are features in them with missing values." alt="" coords="515,333,688,375"/>
+<area shape="rect" id="node11" href="$classmuw_1_1_tabular_data.html#a151fe53cc508d53df4d89847a1bf8969" title="Returns with the header names of the table." alt="" coords="515,423,688,464"/>
+<area shape="rect" id="node12" href="$classmuw_1_1_tabular_data_filter.html#af3f8e811842e4a4c42374a101170f183" title="Returns the list of label groups of the given label." alt="" coords="960,7,1115,48"/>
+<area shape="rect" id="node13" href="$classmuw_1_1_tabular_data_filter.html#a04d4d9d8881119b334df568a883ce19a" title="Returns the table containing records with the input keys only." alt="" coords="524,220,679,261"/>
+<area shape="rect" id="node5" href="$classmuw_1_1_tabular_data.html#a9002777f31a0bf1b0b15e6e33704e804" title="Returns with the unique keys located in the table." alt="" coords="1169,138,1332,165"/>
+<area shape="rect" id="node6" href="$classmuw_1_1_tabular_data_filter.html#ab1b48a4ac98332d1b71171f622f73e93" title="Returns the keys of features that have the given label subgroup." alt="" coords="960,72,1115,113"/>
+<area shape="rect" id="node7" href="$classmuw_1_1_tabular_data.html#a873246d0f3cf0eef824f13051624149c" title="Returns with the value of the respected key and column index." alt="" coords="1163,47,1339,74"/>
+<area shape="rect" id="node9" href="$classmuw_1_1_tabular_data.html#a3279af9103c547e6ceaa23751b017f8e" title="Removes all values associated with the input key." alt="" coords="737,391,912,418"/>
+<area shape="rect" id="node10" href="$classmuw_1_1_tabular_data.html#a5d93a24789ae682b52d42041df7a9700" title="Returns with the row of the respected key." alt="" coords="743,341,906,367"/>
+<area shape="rect" id="node14" href="$classmuw_1_1_tabular_data.html#aa1d814136bdc483fbdbaf680588984a9" title="Returns with the map representing the table header." alt="" coords="738,290,911,317"/>
+<area shape="rect" id="node15" href="$classmuw_1_1_tabular_data.html#a478c9249f16957d554b4cbaa22fac76f" title="Inserts a new value identified with the key." alt="" coords="741,239,908,266"/>
+</map>

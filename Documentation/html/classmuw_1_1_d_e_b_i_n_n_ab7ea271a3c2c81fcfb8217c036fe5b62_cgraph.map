@@ -1,0 +1,7 @@
+<map id="muw::DEBINN::parameters" name="muw::DEBINN::parameters">
+<area shape="rect" id="node1" title="Returns with all trainable parameters of the network." alt="" coords="5,81,184,108"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_d_e_b_i_neuron.html#a924aba28ea0db39d42bdf7a89e41965a" title=" " alt="" coords="234,5,443,32"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_d_e_b_i_n_n.html#aa8db67d8f573729156831219e5df319c" title="Returns with all neurons of all layers of the network." alt="" coords="243,56,434,83"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_d_e_b_i_neuron.html#adfdcf0417455fcfbda41a93a9b8fadd3" title=" " alt="" coords="237,107,440,133"/>
+<area shape="rect" id="node5" href="$classmuw_1_1_d_e_b_i_neuron.html#a53fe53686feb759dd2ae6314f6bc78ba" title=" " alt="" coords="232,157,445,184"/>
+</map>

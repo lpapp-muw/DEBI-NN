@@ -1,0 +1,6 @@
+<map id="muw::TabularDataFilter::eraseIncompleteRecords" name="muw::TabularDataFilter::eraseIncompleteRecords">
+<area shape="rect" id="node1" title="Erases records from the dabular data if there are features in them with missing values." alt="" coords="5,49,179,90"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_tabular_data.html#a9002777f31a0bf1b0b15e6e33704e804" title="Returns with the unique keys located in the table." alt="" coords="233,5,395,32"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_tabular_data.html#a3279af9103c547e6ceaa23751b017f8e" title="Removes all values associated with the input key." alt="" coords="227,56,401,83"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_tabular_data.html#a5d93a24789ae682b52d42041df7a9700" title="Returns with the row of the respected key." alt="" coords="233,107,395,133"/>
+</map>

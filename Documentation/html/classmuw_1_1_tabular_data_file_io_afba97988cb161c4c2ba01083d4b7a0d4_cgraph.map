@@ -1,0 +1,7 @@
+<map id="muw::TabularDataFileIo::save" name="muw::TabularDataFileIo::save">
+<area shape="rect" id="node1" title="Saves an input tabular data into a CSV file. Note that in case a working directory was not provided i..." alt="" coords="5,89,163,131"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_tabular_data.html#a7e6354d181112292562e67dc4e7db936" title="Returns with the column count of the table." alt="" coords="211,5,387,47"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_tabular_data.html#aa1d814136bdc483fbdbaf680588984a9" title="Returns with the map representing the table header." alt="" coords="212,71,385,98"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_tabular_data.html#a9002777f31a0bf1b0b15e6e33704e804" title="Returns with the unique keys located in the table." alt="" coords="217,122,380,149"/>
+<area shape="rect" id="node5" href="$classmuw_1_1_tabular_data.html#a873246d0f3cf0eef824f13051624149c" title="Returns with the value of the respected key and column index." alt="" coords="211,173,387,199"/>
+</map>

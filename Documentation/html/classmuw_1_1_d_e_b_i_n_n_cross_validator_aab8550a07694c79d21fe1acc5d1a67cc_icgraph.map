@@ -1,0 +1,4 @@
+<map id="muw::DEBINNCrossValidator::executeFold" name="muw::DEBINNCrossValidator::executeFold">
+<area shape="rect" id="node1" title="Executes the training and cross&#45;validation of DEBINN models of the given cross&#45;validation fold." alt="" coords="244,5,435,47"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_d_e_b_i_n_n_cross_validator.html#a87e90d9a5c9c60f46cde22b5ef83b1ef" title="Executes the training and cross&#45;validation process." alt="" coords="5,5,196,47"/>
+</map>

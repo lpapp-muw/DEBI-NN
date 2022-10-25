@@ -1,0 +1,12 @@
+<map id="muw::DEBINNFactory::generate" name="muw::DEBINNFactory::generate">
+<area shape="rect" id="node1" title="Generates a trained DEBI neural network by loading it up from a saved file." alt="" coords="5,150,155,191"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_d_e_b_i_n_n.html#a3145347b4ac60781ffc9cbece2ecddda" title="Loads the network from the file provided as input." alt="" coords="203,157,340,184"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_d_e_b_i_n_n.html#ab7ea271a3c2c81fcfb8217c036fe5b62" title="Returns with all trainable parameters of the network." alt="" coords="388,107,567,133"/>
+<area shape="rect" id="node8" href="$classmuw_1_1_d_e_b_i_n_n.html#afef9c00ec4b4089ccff6e8735727dae1" title="Sets the trainable parameters for the network." alt="" coords="412,183,543,209"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_d_e_b_i_neuron.html#a924aba28ea0db39d42bdf7a89e41965a" title=" " alt="" coords="617,5,826,32"/>
+<area shape="rect" id="node5" href="$classmuw_1_1_d_e_b_i_n_n.html#aa8db67d8f573729156831219e5df319c" title="Returns with all neurons of all layers of the network." alt="" coords="626,56,817,83"/>
+<area shape="rect" id="node6" href="$classmuw_1_1_d_e_b_i_neuron.html#adfdcf0417455fcfbda41a93a9b8fadd3" title=" " alt="" coords="620,107,823,133"/>
+<area shape="rect" id="node7" href="$classmuw_1_1_d_e_b_i_neuron.html#a53fe53686feb759dd2ae6314f6bc78ba" title=" " alt="" coords="615,157,828,184"/>
+<area shape="rect" id="node9" href="$classmuw_1_1_d_e_b_i_n_n.html#a1dc13071e4a4858f73391bdb3afa7d06" title="Realigns the network spatially as of its spatial parameters." alt="" coords="646,208,797,235"/>
+<area shape="rect" id="node10" href="$classmuw_1_1_d_e_b_i_n_n.html#a43e1a393ca03ba5afef08d7d4f46b6a2" title="Calculates the mean and standard deviation of values provided as input." alt="" coords="876,201,1068,242"/>
+</map>

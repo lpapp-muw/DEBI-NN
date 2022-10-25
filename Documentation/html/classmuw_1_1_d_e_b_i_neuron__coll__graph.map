@@ -1,0 +1,5 @@
+<map id="muw::DEBINeuron" name="muw::DEBINeuron">
+<area shape="rect" id="node1" title="The DEBINeuron class describes a neuron in the DEBI network." alt="" coords="111,139,239,165"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_d_e_b_i_stem_cell.html" title="The DEBIStemCell is a base class of the DEBINeuron class. Currently, it is acting as an architectural..." alt="" coords="5,5,145,32"/>
+<area shape="rect" id="node3" href="$structmuw_1_1_d_e_b_i_neuron_1_1_coordinate3_d.html" title="Simple struct holding x,y,z coordinates." alt="" coords="169,5,384,32"/>
+</map>

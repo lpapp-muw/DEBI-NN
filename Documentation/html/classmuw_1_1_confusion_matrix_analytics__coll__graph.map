@@ -1,0 +1,6 @@
+<map id="muw::ConfusionMatrixAnalytics" name="muw::ConfusionMatrixAnalytics">
+<area shape="rect" id="node1" title="The ConfusionMatrixAnalytics class is an inherited class from AbstractAnalytics. Manifests analytics ..." alt="" coords="5,275,209,301"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_abstract_analytics.html" title="The AbstractAnalytics class is a base class for all other analytics classes to provide a unified inte..." alt="" coords="27,199,187,225"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_data_package.html" title="The DataPackage class contains a feature and a corresponding label tabular database." alt="" coords="40,109,175,136"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_tabular_data.html" title="The TabularData class is a general container to hold a key and its respective values in tabular form." alt="" coords="44,5,171,32"/>
+</map>

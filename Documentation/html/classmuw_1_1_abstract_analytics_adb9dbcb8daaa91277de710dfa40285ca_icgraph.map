@@ -1,0 +1,8 @@
+<map id="muw::AbstractAnalytics::evaluate" name="muw::AbstractAnalytics::evaluate">
+<area shape="rect" id="node1" title="Evaluates the input model by the data package of the given analytics object." alt="" coords="1203,5,1363,47"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_genetic_algorithm_optimizer.html#a1dba07753933de7474e7a9a769ffd9a8" title="Trains the DEBI neural network provided in the constructor." alt="" coords="680,5,893,47"/>
+<area shape="rect" id="node6" href="$classmuw_1_1_genetic_algorithm_optimizer.html#a55a7cd4f0d6769d3cfb44c62633137c8" title="Tests if early stopping shall be performed." alt="" coords="941,35,1155,76"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_d_e_b_i_n_n_factory.html#ac6b0ceff5c2b835a2ea9308f3c0abf73" title="Generates a trained DEBI neural network based on its input data package which acts as training set...." alt="" coords="483,5,632,47"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_d_e_b_i_n_n_cross_validator.html#aab8550a07694c79d21fe1acc5d1a67cc" title="Executes the training and cross&#45;validation of DEBINN models of the given cross&#45;validation fold." alt="" coords="244,5,435,47"/>
+<area shape="rect" id="node5" href="$classmuw_1_1_d_e_b_i_n_n_cross_validator.html#a87e90d9a5c9c60f46cde22b5ef83b1ef" title="Executes the training and cross&#45;validation process." alt="" coords="5,5,196,47"/>
+</map>

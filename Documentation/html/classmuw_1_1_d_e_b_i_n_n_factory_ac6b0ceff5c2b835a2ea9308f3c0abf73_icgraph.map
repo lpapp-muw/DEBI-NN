@@ -1,0 +1,5 @@
+<map id="muw::DEBINNFactory::generate" name="muw::DEBINNFactory::generate">
+<area shape="rect" id="node1" title="Generates a trained DEBI neural network based on its input data package which acts as training set...." alt="" coords="483,5,632,47"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_d_e_b_i_n_n_cross_validator.html#aab8550a07694c79d21fe1acc5d1a67cc" title="Executes the training and cross&#45;validation of DEBINN models of the given cross&#45;validation fold." alt="" coords="244,5,435,47"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_d_e_b_i_n_n_cross_validator.html#a87e90d9a5c9c60f46cde22b5ef83b1ef" title="Executes the training and cross&#45;validation process." alt="" coords="5,5,196,47"/>
+</map>

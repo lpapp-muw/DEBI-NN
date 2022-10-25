@@ -1,0 +1,4 @@
+<map id="muw::GeneticAlgorithmOptimizer::isEarlyStopping" name="muw::GeneticAlgorithmOptimizer::isEarlyStopping">
+<area shape="rect" id="node1" title="Tests if early stopping shall be performed." alt="" coords="5,5,219,47"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_abstract_analytics.html#adb9dbcb8daaa91277de710dfa40285ca" title="Evaluates the input model by the data package of the given analytics object." alt="" coords="267,5,427,47"/>
+</map>

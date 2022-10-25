@@ -1,0 +1,8 @@
+<map id="muw::DEBINeuron::actionPotential" name="muw::DEBINeuron::actionPotential">
+<area shape="rect" id="node1" title=" " alt="" coords="5,143,228,170"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_d_e_b_i_neuron.html#a458da072684ecf310791d92e438dd3c9" title="Calculates the input signal of the neuron as its input dendrite action potentials,..." alt="" coords="276,5,464,47"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_d_e_b_i_neuron.html#ac5121e81bc17ffd88a967051548432ca" title="Maps the input signal of the neuron to action potential by the leaky ReLu approach." alt="" coords="276,71,464,112"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_d_e_b_i_neuron.html#a49f53c07f0ff3bfc65f5cbab51381e71" title="Maps the input signal of the neuron to action potential by the ReLu approach." alt="" coords="276,136,464,177"/>
+<area shape="rect" id="node5" href="$classmuw_1_1_d_e_b_i_neuron.html#a2d55e5202fcef8379e3fc60bdcd4e7bb" title="Maps the input signal of the neuron to action potential by the Sigmoid approach." alt="" coords="276,201,464,243"/>
+<area shape="rect" id="node6" href="$classmuw_1_1_d_e_b_i_neuron.html#af2091a6f9966e9ff17ccd412b5c18530" title="Maps the input signal of the neuron to action potential by the Tanh approach." alt="" coords="276,267,464,308"/>
+</map>

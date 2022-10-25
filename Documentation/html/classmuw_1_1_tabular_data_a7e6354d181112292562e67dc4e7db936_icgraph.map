@@ -1,0 +1,12 @@
+<map id="muw::TabularData::columnCount" name="muw::TabularData::columnCount">
+<area shape="rect" id="node1" title="Returns with the column count of the table." alt="" coords="769,177,945,218"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_d_e_b_i_n_n_factory.html#ac6b0ceff5c2b835a2ea9308f3c0abf73" title="Generates a trained DEBI neural network based on its input data package which acts as training set...." alt="" coords="543,57,692,98"/>
+<area shape="rect" id="node5" href="$classmuw_1_1_data_package.html#af195e1925fb1a8d9a46822f1c9996545" title="initializes the data package as of the input parameters." alt="" coords="522,5,713,32"/>
+<area shape="rect" id="node7" href="$classmuw_1_1_tabular_data.html#a28831ebe82f6b734421674ceba0f669e" title="Returns with the maximums of each column in the table." alt="" coords="534,147,701,173"/>
+<area shape="rect" id="node8" href="$classmuw_1_1_tabular_data.html#a5f3c1d9c5b1edeefb1bfd63950da7f6f" title="Returns with the minimums of each column in the table." alt="" coords="536,221,699,248"/>
+<area shape="rect" id="node9" href="$classmuw_1_1_multi_subset_fold_generator.html#ad7c2b433e49cfd3757b5341367e6453b" title="Constructor." alt="" coords="513,273,721,314"/>
+<area shape="rect" id="node10" href="$classmuw_1_1_tabular_data_file_io.html#afba97988cb161c4c2ba01083d4b7a0d4" title="Saves an input tabular data into a CSV file. Note that in case a working directory was not provided i..." alt="" coords="539,338,696,379"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_d_e_b_i_n_n_cross_validator.html#aab8550a07694c79d21fe1acc5d1a67cc" title="Executes the training and cross&#45;validation of DEBINN models of the given cross&#45;validation fold." alt="" coords="259,197,450,238"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_d_e_b_i_n_n_cross_validator.html#a87e90d9a5c9c60f46cde22b5ef83b1ef" title="Executes the training and cross&#45;validation process." alt="" coords="5,197,196,238"/>
+<area shape="rect" id="node6" href="$classmuw_1_1_data_package.html#a36d64d6b97e5ca651ce8c34e8907d705" title="Constructor." alt="" coords="244,5,465,32"/>
+</map>

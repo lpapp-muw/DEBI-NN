@@ -1,0 +1,6 @@
+<map id="muw::TabularData::mean" name="muw::TabularData::mean">
+<area shape="rect" id="node1" title="Calculates the mean of the given column." alt="" coords="476,55,643,81"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_tabular_data.html#a95779e3b76f0d1d98f73447344e0f27d" title="Calculates the standard deviation of the given column." alt="" coords="244,29,428,56"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_tabular_data.html#ac2ffe5a4402747ece784e4d850196e82" title="Returns with the means of each column in the table." alt="" coords="249,80,423,107"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_tabular_data.html#a16d6fbeea97a4137b6a35ce0aaf05ad9" title="Returns with the deviations of each column in the table." alt="" coords="5,29,196,56"/>
+</map>

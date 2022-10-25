@@ -1,0 +1,11 @@
+<map id="muw::DEBINNRenderController::DEBINNRenderController" name="muw::DEBINNRenderController::DEBINNRenderController">
+<area shape="rect" id="node1" title="Constructor." alt="" coords="5,203,207,245"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_d_e_b_i_n_n_render_controller.html#ab1fa713d35fe2175ab678d7c8d32e730" title="Scrolls through the DEBINN models automatically and grabs their screen to ave them to PNG format." alt="" coords="255,53,456,94"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_d_e_b_i_n_n_render_controller.html#a1315a967aa24c73b280d1fdb3484bf7a" title="Saves the screen content." alt="" coords="504,7,705,49"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_d_e_b_i_n_n_render_controller.html#ac1269b7de7102e355c96c61faedb0afb" title="Sets the model intex to the input one to visualize the respective DEBINN model." alt="" coords="504,86,705,127"/>
+<area shape="rect" id="node5" href="$classmuw_1_1_d_e_b_i_n_n_render_controller.html#aeb569be32e6486d1756ec01b249e238a" title="Resets an ongoing animation to its default view state." alt="" coords="255,170,456,211"/>
+<area shape="rect" id="node6" href="$classmuw_1_1_d_e_b_i_n_n_render_controller.html#a51cacc40a4f12bee4f3287f1ef4a18b4" title="Sets the linear speed parameter for the animation." alt="" coords="255,235,456,277"/>
+<area shape="rect" id="node7" href="$classmuw_1_1_d_e_b_i_n_n_render_controller.html#a26b21d7aea6588523456bd867a4de6df" title="Sets the look speed parameter for the animation." alt="" coords="255,301,456,342"/>
+<area shape="rect" id="node8" href="$classmuw_1_1_d_e_b_i_n_n_render_controller.html#ac589f2ceed7d13fe894dc08b357b6b90" title="Starts a rotational animation of the currently visualized DEBINN model." alt="" coords="255,366,456,407"/>
+<area shape="rect" id="node9" href="$classmuw_1_1_d_e_b_i_n_n_render_controller.html#a12671371fa4a8482976c60f08cb152be" title="Sops an ongoing animation." alt="" coords="255,431,456,473"/>
+</map>

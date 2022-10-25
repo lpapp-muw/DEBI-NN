@@ -1,0 +1,8 @@
+<map id="muw::GeneticAlgorithmOptimizer" name="muw::GeneticAlgorithmOptimizer">
+<area shape="rect" id="node1" title="The GeneticAlgorithmOptimizer class models evolutionary processes to train DEBI neural networks." alt="" coords="71,291,284,317"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_d_e_b_i_n_n.html" title="The DEBINN class manifests the mechanisms of a DEBI neural network." alt="" coords="23,200,129,227"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_abstract_model.html" title="The AbstractModel class is a base class for machine learning model implementations in order to facili..." alt="" coords="5,109,147,136"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_data_package.html" title="The DataPackage class contains a feature and a corresponding label tabular database." alt="" coords="266,109,401,136"/>
+<area shape="rect" id="node6" href="$classmuw_1_1_abstract_analytics.html" title="The AbstractAnalytics class is a base class for all other analytics classes to provide a unified inte..." alt="" coords="348,200,508,227"/>
+<area shape="rect" id="node5" href="$classmuw_1_1_tabular_data.html" title="The TabularData class is a general container to hold a key and its respective values in tabular form." alt="" coords="270,5,397,32"/>
+</map>

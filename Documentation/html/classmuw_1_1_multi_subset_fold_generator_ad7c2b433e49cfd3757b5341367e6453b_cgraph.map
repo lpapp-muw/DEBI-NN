@@ -1,0 +1,7 @@
+<map id="muw::MultiSubsetFoldGenerator::MultiSubsetFoldGenerator" name="muw::MultiSubsetFoldGenerator::MultiSubsetFoldGenerator">
+<area shape="rect" id="node1" title="Constructor." alt="" coords="5,39,213,80"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_tabular_data.html#a7e6354d181112292562e67dc4e7db936" title="Returns with the column count of the table." alt="" coords="261,5,437,47"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_tabular_data_file_io.html#ad614149d880b47bdaefa9fdd5d6e536b" title="Loads a CSV file to an input tabular data. Note that in case a working directory was not provided in ..." alt="" coords="271,71,428,112"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_tabular_data.html#aa1d814136bdc483fbdbaf680588984a9" title="Returns with the map representing the table header." alt="" coords="485,53,659,79"/>
+<area shape="rect" id="node5" href="$classmuw_1_1_tabular_data.html#a478c9249f16957d554b4cbaa22fac76f" title="Inserts a new value identified with the key." alt="" coords="489,103,655,130"/>
+</map>

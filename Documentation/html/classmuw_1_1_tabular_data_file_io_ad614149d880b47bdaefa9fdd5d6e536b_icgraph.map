@@ -1,0 +1,7 @@
+<map id="muw::TabularDataFileIo::load" name="muw::TabularDataFileIo::load">
+<area shape="rect" id="node1" title="Loads a CSV file to an input tabular data. Note that in case a working directory was not provided in ..." alt="" coords="513,57,671,98"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_data_package.html#a36d64d6b97e5ca651ce8c34e8907d705" title="Constructor." alt="" coords="244,5,465,32"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_d_e_b_i_n_n_cross_validator.html#aab8550a07694c79d21fe1acc5d1a67cc" title="Executes the training and cross&#45;validation of DEBINN models of the given cross&#45;validation fold." alt="" coords="259,57,450,98"/>
+<area shape="rect" id="node5" href="$classmuw_1_1_multi_subset_fold_generator.html#ad7c2b433e49cfd3757b5341367e6453b" title="Constructor." alt="" coords="251,122,459,163"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_d_e_b_i_n_n_cross_validator.html#a87e90d9a5c9c60f46cde22b5ef83b1ef" title="Executes the training and cross&#45;validation process." alt="" coords="5,57,196,98"/>
+</map>

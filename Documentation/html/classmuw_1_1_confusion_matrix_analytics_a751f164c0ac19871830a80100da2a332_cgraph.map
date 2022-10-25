@@ -1,0 +1,19 @@
+<map id="muw::ConfusionMatrixAnalytics::evaluate" name="muw::ConfusionMatrixAnalytics::evaluate">
+<area shape="rect" id="node1" title="Evaluates the given model by the predefined unit type." alt="" coords="5,329,209,370"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_array2_d.html#a5193bf034be85a48a2d06e0a4581a1cb" title="increments the value of the array with 1 at coordinates aX,aY." alt="" coords="283,27,447,53"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_confusion_matrix_analytics.html#a778fb43b84e14a1bbd5797a1020226b1" title="Calculates true positive, true negative, false positive and false negative values for the moded,..." alt="" coords="263,78,467,119"/>
+<area shape="rect" id="node8" href="$classmuw_1_1_abstract_model.html#a0f0645d6cf2642698eb05a6c905da369" title="Evaluates the input feature vector and returns with a prediction." alt="" coords="294,143,435,185"/>
+<area shape="rect" id="node9" href="$classmuw_1_1_data_package.html#ae989e19cfbecd5e18b301d3a83f72895" title=" " alt="" coords="265,209,465,236"/>
+<area shape="rect" id="node10" href="$classmuw_1_1_data_package.html#a5b125954e6101e052804ae77e3b6cbac" title="returns ture if the data package is in a valid state. A data package may be in an invalid state if e...." alt="" coords="273,260,456,287"/>
+<area shape="rect" id="node11" href="$classmuw_1_1_data_package.html#a415ddd13dc1a2e47aebc2781c6772f14" title=" " alt="" coords="271,311,459,337"/>
+<area shape="rect" id="node12" href="$classmuw_1_1_data_package.html#a5c474e945ca604cd9897ddfb1455841a" title=" " alt="" coords="264,361,465,388"/>
+<area shape="rect" id="node13" href="$classmuw_1_1_data_package.html#af386b44ac6a704e410bb6600b3d73cc2" title=" " alt="" coords="520,441,751,468"/>
+<area shape="rect" id="node14" href="$classmuw_1_1_confusion_matrix_analytics.html#a3603cec304d42ad54c9285f881493495" title="Resets the confusion matrix." alt="" coords="263,463,467,505"/>
+<area shape="rect" id="node15" href="$classmuw_1_1_data_package.html#aa75b1fcfae80755b5b36147b23f5bd9f" title=" " alt="" coords="257,529,472,556"/>
+<area shape="rect" id="node16" href="$classmuw_1_1_tabular_data.html#a5d93a24789ae682b52d42041df7a9700" title="Returns with the row of the respected key." alt="" coords="283,580,446,607"/>
+<area shape="rect" id="node17" href="$classmuw_1_1_tabular_data.html#a873246d0f3cf0eef824f13051624149c" title="Returns with the value of the respected key and column index." alt="" coords="277,631,453,657"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_array2_d.html#a695a620c52ddf60a4fddd4bda1428263" title="same as const operator()." alt="" coords="574,5,697,32"/>
+<area shape="rect" id="node5" href="$classmuw_1_1_array2_d.html#aa54a8ea2d4e5d22f9af36a50239e0137" title=" " alt="" coords="541,56,729,83"/>
+<area shape="rect" id="node6" href="$classmuw_1_1_confusion_matrix_analytics.html#aada287a2a4fc50e71c6956a939b5d3df" title="Resets the intermediate containers that store true positive, true negative, false positive,..." alt="" coords="533,107,737,149"/>
+<area shape="rect" id="node7" href="$classmuw_1_1_array2_d.html#a59a24881ca7dd8764b85cb393f40c926" title=" " alt="" coords="552,173,719,200"/>
+</map>

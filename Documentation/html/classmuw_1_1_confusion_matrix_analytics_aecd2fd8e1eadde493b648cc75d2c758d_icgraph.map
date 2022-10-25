@@ -1,0 +1,6 @@
+<map id="muw::ConfusionMatrixAnalytics::fScore" name="muw::ConfusionMatrixAnalytics::fScore">
+<area shape="rect" id="node1" title=" " alt="" coords="735,5,939,47"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_confusion_matrix_analytics.html#a394646e8c0b1b07a11556b30d7b2a7c3" title="Returns all the implemented unit measures of ConfusionMatrixAnalytics of the model." alt="" coords="483,5,687,47"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_d_e_b_i_n_n_cross_validator.html#aab8550a07694c79d21fe1acc5d1a67cc" title="Executes the training and cross&#45;validation of DEBINN models of the given cross&#45;validation fold." alt="" coords="244,5,435,47"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_d_e_b_i_n_n_cross_validator.html#a87e90d9a5c9c60f46cde22b5ef83b1ef" title="Executes the training and cross&#45;validation process." alt="" coords="5,5,196,47"/>
+</map>

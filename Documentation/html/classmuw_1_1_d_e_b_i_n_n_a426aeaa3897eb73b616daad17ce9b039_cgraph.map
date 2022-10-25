@@ -1,0 +1,7 @@
+<map id="muw::DEBINN::DEBINN" name="muw::DEBINN::DEBINN">
+<area shape="rect" id="node1" title="Copy constructor." alt="" coords="5,56,167,83"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_d_e_b_i_n_n.html#accff2b273cd03ddcc6d2a302866a1c0e" title="Initializes the network with random spatial coordinates as of the settings provided in the contructor..." alt="" coords="215,31,375,57"/>
+<area shape="rect" id="node5" href="$classmuw_1_1_d_e_b_i_n_n.html#aedced1df33367cc4883598d16bf9dcaf" title="Reads out all setting parameter from the setting file provided in the contructor." alt="" coords="222,81,367,108"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_d_e_b_i_n_n.html#aa8db67d8f573729156831219e5df319c" title="Returns with all neurons of all layers of the network." alt="" coords="423,5,613,32"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_d_e_b_i_n_n.html#a3c41382bad7a58a5e759b18fa4e2391a" title="Connects DEBI neurons across consecutive layers to be fully&#45;connected." alt="" coords="437,56,599,83"/>
+</map>

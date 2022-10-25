@@ -1,0 +1,17 @@
+<map id="muw::DEBINNRenderer::createScene" name="muw::DEBINNRenderer::createScene">
+<area shape="rect" id="node1" title="Creates a scene based on the input DEBI neural network and the internal rendering settings." alt="" coords="5,283,163,325"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_d_e_b_i_n_n.html#a9f5f7e8a1a93d56b5ceca7da9a0873ab" title="Calculates the center coordinate of the neural network." alt="" coords="243,29,392,56"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_d_e_b_i_n_n.html#aa8db67d8f573729156831219e5df319c" title="Returns with all neurons of all layers of the network." alt="" coords="222,80,413,107"/>
+<area shape="rect" id="node5" href="$classmuw_1_1_d_e_b_i_n_n_renderer.html#a85d5137f25e16165326888d5f660bfdc" title="Renders a line in the scene. Used to draw connections between somas and axons as well as to render a ..." alt="" coords="515,233,672,274"/>
+<area shape="rect" id="node6" href="$classmuw_1_1_d_e_b_i_n_n.html#a3162bb449a487c3fca6f4a5c4afed163" title=" " alt="" coords="211,181,424,208"/>
+<area shape="rect" id="node7" href="$classmuw_1_1_d_e_b_i_n_n.html#a4b1af1370f2b9590653f8f28ffe2beea" title=" " alt="" coords="213,232,422,259"/>
+<area shape="rect" id="node8" href="$classmuw_1_1_d_e_b_i_n_n_renderer.html#a9f70f0bf4cba51f87269bb1ec8d5115b" title="Really add lines added via drawLine() into the scene. Called at the very end of scene creation." alt="" coords="239,283,396,325"/>
+<area shape="rect" id="node9" href="$classmuw_1_1_d_e_b_i_n_n.html#a058398c9f0431618b38ef662c02ac1be" title=" " alt="" coords="241,349,393,376"/>
+<area shape="rect" id="node10" href="$classmuw_1_1_d_e_b_i_n_n.html#a1dc13071e4a4858f73391bdb3afa7d06" title="Realigns the network spatially as of its spatial parameters." alt="" coords="242,467,393,493"/>
+<area shape="rect" id="node12" href="$classmuw_1_1_d_e_b_i_n_n_renderer.html#acb08e3771fbab15261ad55ace96e4c92" title="Renders one DEBI neuron to the scene." alt="" coords="239,401,396,442"/>
+<area shape="rect" id="node14" href="$classmuw_1_1_palette.html#a7a617265b0a3ffb04f7ea25241a8385f" title="Sets the min&#45;max range of stretch the palette in&#45;between." alt="" coords="232,517,403,544"/>
+<area shape="rect" id="node15" href="$classmuw_1_1_d_e_b_i_n_n.html#ae4ada664955a998bd112cb0380cb7374" title="Returns with the z&#45;ranges (minimum and maximum z&#45;coordinate) for each layer of the neural network." alt="" coords="235,568,399,595"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_d_e_b_i_n_n.html#a471092af92bf5ad20bed3995b1c02545" title="Calculates the spatial bounding box enclosing the network." alt="" coords="472,29,715,56"/>
+<area shape="rect" id="node11" href="$classmuw_1_1_d_e_b_i_n_n.html#a43e1a393ca03ba5afef08d7d4f46b6a2" title="Calculates the mean and standard deviation of values provided as input." alt="" coords="497,459,689,501"/>
+<area shape="rect" id="node13" href="$classmuw_1_1_palette.html#a961b883cd105067995ea4c3461dc05de" title=" " alt="" coords="506,408,681,435"/>
+</map>

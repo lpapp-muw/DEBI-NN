@@ -1,0 +1,4 @@
+<map id="muw::DEBINN::load" name="muw::DEBINN::load">
+<area shape="rect" id="node1" title="Loads the network from the file provided as input." alt="" coords="203,13,340,39"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_d_e_b_i_n_n_factory.html#aa7111e52f734e880a980374407d8e93b" title="Generates a trained DEBI neural network by loading it up from a saved file." alt="" coords="5,5,155,47"/>
+</map>

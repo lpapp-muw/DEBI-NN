@@ -1,0 +1,5 @@
+<map id="muw::DEBINN::set" name="muw::DEBINN::set">
+<area shape="rect" id="node1" title="Sets the trainable parameters for the network." alt="" coords="5,13,136,39"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_d_e_b_i_n_n.html#a1dc13071e4a4858f73391bdb3afa7d06" title="Realigns the network spatially as of its spatial parameters." alt="" coords="184,13,335,39"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_d_e_b_i_n_n.html#a43e1a393ca03ba5afef08d7d4f46b6a2" title="Calculates the mean and standard deviation of values provided as input." alt="" coords="383,5,575,47"/>
+</map>

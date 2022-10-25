@@ -1,0 +1,5 @@
+<map id="muw::TabularDataFilter::keysByLabelGroup" name="muw::TabularDataFilter::keysByLabelGroup">
+<area shape="rect" id="node1" title="Returns the keys of features that have the given label subgroup." alt="" coords="5,23,160,65"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_tabular_data.html#a9002777f31a0bf1b0b15e6e33704e804" title="Returns with the unique keys located in the table." alt="" coords="215,5,377,32"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_tabular_data.html#a873246d0f3cf0eef824f13051624149c" title="Returns with the value of the respected key and column index." alt="" coords="208,56,384,83"/>
+</map>

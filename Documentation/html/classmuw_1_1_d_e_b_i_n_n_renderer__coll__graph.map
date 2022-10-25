@@ -1,0 +1,4 @@
+<map id="muw::DEBINNRenderer" name="muw::DEBINNRenderer">
+<area shape="rect" id="node1" title="The DEBINNRenderer class implements a simple 3D rendering of a DEBI neural network." alt="" coords="5,95,163,121"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_palette.html" title="The Palette class implements a simple color scale for rendering DEBI neural network components." alt="" coords="35,5,133,32"/>
+</map>

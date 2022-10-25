@@ -1,0 +1,4 @@
+<map id="muw::DataPackage" name="muw::DataPackage">
+<area shape="rect" id="node1" title="The DataPackage class contains a feature and a corresponding label tabular database." alt="" coords="5,109,140,136"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_tabular_data.html" title="The TabularData class is a general container to hold a key and its respective values in tabular form." alt="" coords="9,5,136,32"/>
+</map>

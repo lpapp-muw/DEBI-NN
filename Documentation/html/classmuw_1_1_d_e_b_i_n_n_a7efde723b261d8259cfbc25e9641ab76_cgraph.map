@@ -1,0 +1,5 @@
+<map id="muw::DEBINN::inputCount" name="muw::DEBINN::inputCount">
+<area shape="rect" id="node1" title="Returns with the number of trainable parameters of the network." alt="" coords="5,35,180,61"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_d_e_b_i_n_n.html#aa8db67d8f573729156831219e5df319c" title="Returns with all neurons of all layers of the network." alt="" coords="230,5,421,32"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_d_e_b_i_neuron.html#a9a2e6ae1f7f3107660ddaba1c450be6c" title=" " alt="" coords="228,57,423,98"/>
+</map>

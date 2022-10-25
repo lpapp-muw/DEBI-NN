@@ -1,0 +1,10 @@
+<map id="muw::DEBINN::meanStDevOfVector" name="muw::DEBINN::meanStDevOfVector">
+<area shape="rect" id="node1" title="Calculates the mean and standard deviation of values provided as input." alt="" coords="859,27,1051,69"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_d_e_b_i_n_n.html#a2a0033cbdf35675e171d3687b3ef05c7" title="Provides a prediction for the input feature vector." alt="" coords="452,5,612,32"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_d_e_b_i_n_n.html#a1dc13071e4a4858f73391bdb3afa7d06" title="Realigns the network spatially as of its spatial parameters." alt="" coords="660,60,811,87"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_d_e_b_i_n_n_renderer.html#a4d3b9c86e74c1d5bfadcf3d341e35b81" title="Creates a scene based on the input DEBI neural network and the internal rendering settings." alt="" coords="453,57,611,98"/>
+<area shape="rect" id="node6" href="$classmuw_1_1_d_e_b_i_n_n.html#afef9c00ec4b4089ccff6e8735727dae1" title="Sets the trainable parameters for the network." alt="" coords="467,123,597,149"/>
+<area shape="rect" id="node5" href="$classmuw_1_1_d_e_b_i_n_n_render_controller.html#a3736cab14384f3f4e7115fa8df7c2323" title="Creates scenes for each input DEBI model to visualize." alt="" coords="203,57,404,98"/>
+<area shape="rect" id="node7" href="$classmuw_1_1_d_e_b_i_n_n.html#a3145347b4ac60781ffc9cbece2ecddda" title="Loads the network from the file provided as input." alt="" coords="235,123,372,149"/>
+<area shape="rect" id="node8" href="$classmuw_1_1_d_e_b_i_n_n_factory.html#aa7111e52f734e880a980374407d8e93b" title="Generates a trained DEBI neural network by loading it up from a saved file." alt="" coords="5,115,155,157"/>
+</map>

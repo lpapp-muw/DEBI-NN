@@ -1,0 +1,11 @@
+<map id="muw::TabularData::column" name="muw::TabularData::column">
+<area shape="rect" id="node1" title="Returns with the column as of the input column index." alt="" coords="691,129,867,156"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_tabular_data.html#a95779e3b76f0d1d98f73447344e0f27d" title="Calculates the standard deviation of the given column." alt="" coords="244,29,428,56"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_tabular_data.html#a26ce60429d6143caf0a5b5316fc01ac5" title="Calculates the maximum of the given column." alt="" coords="480,167,639,193"/>
+<area shape="rect" id="node6" href="$classmuw_1_1_tabular_data.html#a787a5cc85eb7e849556cd5df44b9a4a3" title="Calculates the mean of the given column." alt="" coords="476,92,643,119"/>
+<area shape="rect" id="node8" href="$classmuw_1_1_tabular_data.html#a19a43e4ef5d69dacca51774c2670d4ce" title="Calculates the minimum of the given column." alt="" coords="482,241,637,268"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_tabular_data.html#a16d6fbeea97a4137b6a35ce0aaf05ad9" title="Returns with the deviations of each column in the table." alt="" coords="5,29,196,56"/>
+<area shape="rect" id="node5" href="$classmuw_1_1_tabular_data.html#a28831ebe82f6b734421674ceba0f669e" title="Returns with the maximums of each column in the table." alt="" coords="253,167,419,193"/>
+<area shape="rect" id="node7" href="$classmuw_1_1_tabular_data.html#ac2ffe5a4402747ece784e4d850196e82" title="Returns with the means of each column in the table." alt="" coords="249,92,423,119"/>
+<area shape="rect" id="node9" href="$classmuw_1_1_tabular_data.html#a5f3c1d9c5b1edeefb1bfd63950da7f6f" title="Returns with the minimums of each column in the table." alt="" coords="255,241,417,268"/>
+</map>

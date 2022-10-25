@@ -1,0 +1,5 @@
+<map id="muw::DEBINNFactory" name="muw::DEBINNFactory">
+<area shape="rect" id="node1" title="The DEBINNFactory class is a convenience implementation to load up, initialize, train,..." alt="" coords="5,199,155,225"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_data_package.html" title="The DataPackage class contains a feature and a corresponding label tabular database." alt="" coords="13,109,147,136"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_tabular_data.html" title="The TabularData class is a general container to hold a key and its respective values in tabular form." alt="" coords="17,5,143,32"/>
+</map>

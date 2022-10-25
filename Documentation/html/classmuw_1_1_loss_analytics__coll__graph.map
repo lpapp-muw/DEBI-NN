@@ -1,0 +1,6 @@
+<map id="muw::LossAnalytics" name="muw::LossAnalytics">
+<area shape="rect" id="node1" title="The LossAnalytics class is an inherited class from AbstractAnalytics. Manifests analytics based on lo..." alt="" coords="16,275,155,301"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_abstract_analytics.html" title="The AbstractAnalytics class is a base class for all other analytics classes to provide a unified inte..." alt="" coords="5,199,165,225"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_data_package.html" title="The DataPackage class contains a feature and a corresponding label tabular database." alt="" coords="18,109,153,136"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_tabular_data.html" title="The TabularData class is a general container to hold a key and its respective values in tabular form." alt="" coords="22,5,149,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="muw::TabularData::remove" name="muw::TabularData::remove">
+<area shape="rect" id="node1" title="Removes all values associated with the input key." alt="" coords="735,13,909,39"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_tabular_data_filter.html#a2f45fd0a5400d7cb4f3fbb7b55ee81b9" title="Erases records from the dabular data if there are features in them with missing values." alt="" coords="513,5,687,47"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_data_package.html#af195e1925fb1a8d9a46822f1c9996545" title="initializes the data package as of the input parameters." alt="" coords="275,13,465,39"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_data_package.html#a36d64d6b97e5ca651ce8c34e8907d705" title="Constructor." alt="" coords="5,13,227,39"/>
+</map>

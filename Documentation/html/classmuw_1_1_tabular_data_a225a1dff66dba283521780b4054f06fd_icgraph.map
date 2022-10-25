@@ -1,0 +1,12 @@
+<map id="muw::TabularData::setHeader" name="muw::TabularData::setHeader">
+<area shape="rect" id="node1" title="Sets the header names based on the input." alt="" coords="1472,195,1665,222"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_multi_subset_fold_generator.html#a9d48b6774364be95a9c254bf7f81ac5c" title="Performs the random subset configuration generation. Note that this step does not generate actual dat..." alt="" coords="1209,129,1417,171"/>
+<area shape="rect" id="node6" href="$classmuw_1_1_d_e_b_i_n_n_cross_validator.html#aab8550a07694c79d21fe1acc5d1a67cc" title="Executes the training and cross&#45;validation of DEBINN models of the given cross&#45;validation fold." alt="" coords="244,159,435,200"/>
+<area shape="rect" id="node10" href="$classmuw_1_1_tabular_data.html#a0736ad50b1cfb7b554095619b741c30f" title="Merges with the input tabular datas by adding their features. Merge is only performed if the samples ..." alt="" coords="1203,246,1424,273"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_genetic_algorithm_optimizer.html#ad3ddf3c18b0f666964f1fa60e1011597" title="Randomly splits the training datapackage and assigns an analytics entity to each of them...." alt="" coords="941,64,1155,105"/>
+<area shape="rect" id="node9" href="$classmuw_1_1_genetic_algorithm_optimizer.html#a3a4269fbdddf6578de9204fab9239e60" title=" " alt="" coords="941,129,1155,171"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_genetic_algorithm_optimizer.html#a1dba07753933de7474e7a9a769ffd9a8" title="Trains the DEBI neural network provided in the constructor." alt="" coords="680,5,893,47"/>
+<area shape="rect" id="node8" href="$classmuw_1_1_genetic_algorithm_optimizer.html#ac7895902fc85b43b598322a2e7448123" title="Constructor." alt="" coords="680,71,893,112"/>
+<area shape="rect" id="node5" href="$classmuw_1_1_d_e_b_i_n_n_factory.html#ac6b0ceff5c2b835a2ea9308f3c0abf73" title="Generates a trained DEBI neural network based on its input data package which acts as training set...." alt="" coords="483,129,632,171"/>
+<area shape="rect" id="node7" href="$classmuw_1_1_d_e_b_i_n_n_cross_validator.html#a87e90d9a5c9c60f46cde22b5ef83b1ef" title="Executes the training and cross&#45;validation process." alt="" coords="5,159,196,200"/>
+</map>

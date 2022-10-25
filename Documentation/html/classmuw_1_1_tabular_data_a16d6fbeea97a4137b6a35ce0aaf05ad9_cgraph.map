@@ -1,0 +1,7 @@
+<map id="muw::TabularData::deviations" name="muw::TabularData::deviations">
+<area shape="rect" id="node1" title="Returns with the deviations of each column in the table." alt="" coords="5,29,196,56"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_tabular_data.html#a95779e3b76f0d1d98f73447344e0f27d" title="Calculates the standard deviation of the given column." alt="" coords="244,29,428,56"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_tabular_data.html#a6a68cea41ac9e4fa3680cebfd26819b8" title="Returns with the column as of the input column index." alt="" coords="691,29,867,56"/>
+<area shape="rect" id="node5" href="$classmuw_1_1_tabular_data.html#a787a5cc85eb7e849556cd5df44b9a4a3" title="Calculates the mean of the given column." alt="" coords="476,67,643,93"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_tabular_data.html#a9002777f31a0bf1b0b15e6e33704e804" title="Returns with the unique keys located in the table." alt="" coords="915,29,1077,56"/>
+</map>

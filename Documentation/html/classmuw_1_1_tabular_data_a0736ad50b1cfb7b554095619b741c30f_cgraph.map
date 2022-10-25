@@ -1,0 +1,8 @@
+<map id="muw::TabularData::mergeFeatures" name="muw::TabularData::mergeFeatures">
+<area shape="rect" id="node1" title="Merges with the input tabular datas by adding their features. Merge is only performed if the samples ..." alt="" coords="5,56,227,83"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_tabular_data.html#a478c9249f16957d554b4cbaa22fac76f" title="Inserts a new value identified with the key." alt="" coords="288,5,455,32"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_tabular_data.html#a9002777f31a0bf1b0b15e6e33704e804" title="Returns with the unique keys located in the table." alt="" coords="290,56,453,83"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_tabular_data.html#a225a1dff66dba283521780b4054f06fd" title="Sets the header names based on the input." alt="" coords="275,107,468,133"/>
+<area shape="rect" id="node5" href="$classmuw_1_1_tabular_data.html#aa1d814136bdc483fbdbaf680588984a9" title="Returns with the map representing the table header." alt="" coords="516,81,689,108"/>
+<area shape="rect" id="node6" href="$classmuw_1_1_tabular_data.html#a5d93a24789ae682b52d42041df7a9700" title="Returns with the row of the respected key." alt="" coords="521,132,684,159"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="muw::DEBINNRenderer::renderDebiNeuron" name="muw::DEBINNRenderer::renderDebiNeuron">
+<area shape="rect" id="node1" title="Renders one DEBI neuron to the scene." alt="" coords="5,35,163,76"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_d_e_b_i_n_n_renderer.html#a85d5137f25e16165326888d5f660bfdc" title="Renders a line in the scene. Used to draw connections between somas and axons as well as to render a ..." alt="" coords="219,5,377,47"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_palette.html#a961b883cd105067995ea4c3461dc05de" title=" " alt="" coords="211,71,385,98"/>
+</map>

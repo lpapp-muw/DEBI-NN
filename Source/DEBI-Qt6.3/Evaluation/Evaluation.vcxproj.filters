@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>moc;h;cpp</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Machine Learning">
+      <UniqueIdentifier>{d4fcb075-abd7-4570-8526-9375f80fee12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Machine Learning\Models">
+      <UniqueIdentifier>{b2d7c8b0-7237-4aa5-93d3-aee7e6bb1311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Machine Learning\Models\Header Files">
+      <UniqueIdentifier>{397b4732-fa49-41ee-a6b1-1897435a7360}</UniqueIdentifier>
+      <Extensions>h</Extensions>
+    </Filter>
+    <Filter Include="Machine Learning\Models\Source Files">
+      <UniqueIdentifier>{33c1ab79-362a-40ec-8a1b-ffa8a682b751}</UniqueIdentifier>
+      <Extensions>cpp;cxx;c;def</Extensions>
+    </Filter>
+    <Filter Include="Machine Learning\Analytics">
+      <UniqueIdentifier>{b7b656f9-4356-428a-be23-e2fc6850a46d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Machine Learning\Analytics\Header Files">
+      <UniqueIdentifier>{6196dcb0-fe11-456a-b4d2-08327bd8545d}</UniqueIdentifier>
+      <Extensions>h</Extensions>
+    </Filter>
+    <Filter Include="Machine Learning\Analytics\Source files">
+      <UniqueIdentifier>{8725337f-7adc-4c59-89e1-766493f76105}</UniqueIdentifier>
+      <Extensions>cpp;cxx;c;def</Extensions>
+    </Filter>
+    <Filter Include="Machine Learning\DataPackages">
+      <UniqueIdentifier>{adfc4ebf-189c-4e1e-924a-61cce7af37f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Machine Learning\DataPackages\Header Files">
+      <UniqueIdentifier>{30c7a3bc-1ce4-45d5-9c3b-492defabf51a}</UniqueIdentifier>
+      <Extensions>h</Extensions>
+    </Filter>
+    <Filter Include="Machine Learning\DataPackages\Source Files">
+      <UniqueIdentifier>{21c7161f-de35-4ffb-8d68-b318f25798a6}</UniqueIdentifier>
+      <Extensions>cpp;cxx;c;def</Extensions>
+    </Filter>
+    <Filter Include="Generated Files\Debug">
+      <UniqueIdentifier>{8604d6c4-a765-49b1-a002-206a1a123c5a}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generated Files\Release">
+      <UniqueIdentifier>{363cf915-af38-49c7-bf52-98867f71cb27}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="DEBI-NN">
+      <UniqueIdentifier>{6a35b529-d584-4193-855e-383d9c53ad36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DEBI-NN\Header Files">
+      <UniqueIdentifier>{20613f75-1ed6-4e63-8acc-70459ac926fc}</UniqueIdentifier>
+      <Extensions>h</Extensions>
+    </Filter>
+    <Filter Include="DEBI-NN\Source Files">
+      <UniqueIdentifier>{23fcb28b-db63-4c28-87e2-ba6e03eb2a20}</UniqueIdentifier>
+      <Extensions>cpp</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ConfusionMatrixAnalytics.h">
+      <Filter>Machine Learning\Analytics\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AbstractAnalytics.h">
+      <Filter>Machine Learning\Analytics\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AbstractModel.h">
+      <Filter>Machine Learning\Models\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DataPackage.h">
+      <Filter>Machine Learning\DataPackages\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LossAnalytics.h">
+      <Filter>Machine Learning\Analytics\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneticAlgorithmOptimizer.h">
+      <Filter>DEBI-NN\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Palette.h">
+      <Filter>DEBI-NN\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiSubsetFoldGenerator.h">
+      <Filter>Machine Learning\DataPackages\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DEBINNRenderer.h">
+      <Filter>DEBI-NN\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DEBINN.h">
+      <Filter>DEBI-NN\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DEBINeuron.h">
+      <Filter>DEBI-NN\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DEBIStemCell.h">
+      <Filter>DEBI-NN\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DEBINNFactory.h">
+      <Filter>DEBI-NN\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TabularDataFilter.h">
+      <Filter>Machine Learning\DataPackages\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Export.h">
+      <Filter>DEBI-NN\Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ConfusionMatrixAnalytics.cpp">
+      <Filter>Machine Learning\Analytics\Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="DataPackage.cpp">
+      <Filter>Machine Learning\DataPackages\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AbstractAnalytics.cpp">
+      <Filter>Machine Learning\Analytics\Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="AbstractModel.cpp">
+      <Filter>Machine Learning\Models\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LossAnalytics.cpp">
+      <Filter>Machine Learning\Analytics\Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneticAlgorithmOptimizer.cpp">
+      <Filter>DEBI-NN\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Palette.cpp">
+      <Filter>DEBI-NN\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiSubsetFoldGenerator.cpp">
+      <Filter>Machine Learning\DataPackages\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DEBINNFactory.cpp">
+      <Filter>DEBI-NN\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DEBINN.cpp">
+      <Filter>DEBI-NN\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DEBINNRenderer.cpp">
+      <Filter>DEBI-NN\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DEBINeuron.cpp">
+      <Filter>DEBI-NN\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TabularDataFilter.cpp">
+      <Filter>Machine Learning\DataPackages\Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

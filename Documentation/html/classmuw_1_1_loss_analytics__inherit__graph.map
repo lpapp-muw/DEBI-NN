@@ -1,0 +1,4 @@
+<map id="muw::LossAnalytics" name="muw::LossAnalytics">
+<area shape="rect" id="node1" title="The LossAnalytics class is an inherited class from AbstractAnalytics. Manifests analytics based on lo..." alt="" coords="16,80,155,107"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_abstract_analytics.html" title="The AbstractAnalytics class is a base class for all other analytics classes to provide a unified inte..." alt="" coords="5,5,165,32"/>
+</map>

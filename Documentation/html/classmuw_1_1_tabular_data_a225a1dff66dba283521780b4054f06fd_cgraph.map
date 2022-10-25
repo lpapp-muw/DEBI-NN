@@ -1,0 +1,5 @@
+<map id="muw::TabularData::setHeader" name="muw::TabularData::setHeader">
+<area shape="rect" id="node1" title="Sets the header names based on the input." alt="" coords="5,31,199,57"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_tabular_data.html#aa1d814136bdc483fbdbaf680588984a9" title="Returns with the map representing the table header." alt="" coords="247,5,420,32"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_tabular_data.html#a5d93a24789ae682b52d42041df7a9700" title="Returns with the row of the respected key." alt="" coords="252,56,415,83"/>
+</map>

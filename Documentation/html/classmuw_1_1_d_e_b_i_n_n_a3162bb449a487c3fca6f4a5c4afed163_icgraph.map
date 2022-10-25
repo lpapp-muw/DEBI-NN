@@ -1,0 +1,5 @@
+<map id="muw::DEBINN::globalMaxWeight" name="muw::DEBINN::globalMaxWeight">
+<area shape="rect" id="node1" title=" " alt="" coords="460,13,673,39"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_d_e_b_i_n_n_renderer.html#a4d3b9c86e74c1d5bfadcf3d341e35b81" title="Creates a scene based on the input DEBI neural network and the internal rendering settings." alt="" coords="255,5,412,47"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_d_e_b_i_n_n_render_controller.html#a3736cab14384f3f4e7115fa8df7c2323" title="Creates scenes for each input DEBI model to visualize." alt="" coords="5,5,207,47"/>
+</map>

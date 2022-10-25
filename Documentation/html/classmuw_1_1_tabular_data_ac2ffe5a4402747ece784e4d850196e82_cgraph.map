@@ -1,0 +1,6 @@
+<map id="muw::TabularData::means" name="muw::TabularData::means">
+<area shape="rect" id="node1" title="Returns with the means of each column in the table." alt="" coords="5,29,179,56"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_tabular_data.html#a787a5cc85eb7e849556cd5df44b9a4a3" title="Calculates the mean of the given column." alt="" coords="227,29,393,56"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_tabular_data.html#a6a68cea41ac9e4fa3680cebfd26819b8" title="Returns with the column as of the input column index." alt="" coords="441,29,617,56"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_tabular_data.html#a9002777f31a0bf1b0b15e6e33704e804" title="Returns with the unique keys located in the table." alt="" coords="665,29,828,56"/>
+</map>

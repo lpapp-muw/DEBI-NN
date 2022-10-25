@@ -1,0 +1,10 @@
+<map id="muw::LossAnalytics::LossAnalytics" name="muw::LossAnalytics::LossAnalytics">
+<area shape="rect" id="node1" title="Constructor." alt="" coords="5,133,144,174"/>
+<area shape="rect" id="node2" href="$classmuw_1_1_tabular_data_filter.html#ab1b48a4ac98332d1b71171f622f73e93" title="Returns the keys of features that have the given label subgroup." alt="" coords="230,23,385,65"/>
+<area shape="rect" id="node5" href="$classmuw_1_1_data_package.html#a415ddd13dc1a2e47aebc2781c6772f14" title=" " alt="" coords="213,89,401,116"/>
+<area shape="rect" id="node6" href="$classmuw_1_1_data_package.html#a5c474e945ca604cd9897ddfb1455841a" title=" " alt="" coords="207,140,408,167"/>
+<area shape="rect" id="node7" href="$classmuw_1_1_data_package.html#af386b44ac6a704e410bb6600b3d73cc2" title=" " alt="" coords="192,191,423,217"/>
+<area shape="rect" id="node8" href="$classmuw_1_1_data_package.html#aa75b1fcfae80755b5b36147b23f5bd9f" title=" " alt="" coords="200,241,415,268"/>
+<area shape="rect" id="node3" href="$classmuw_1_1_tabular_data.html#a9002777f31a0bf1b0b15e6e33704e804" title="Returns with the unique keys located in the table." alt="" coords="477,5,640,32"/>
+<area shape="rect" id="node4" href="$classmuw_1_1_tabular_data.html#a873246d0f3cf0eef824f13051624149c" title="Returns with the value of the respected key and column index." alt="" coords="471,56,647,83"/>
+</map>
