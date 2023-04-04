@@ -13,7 +13,7 @@ We explicitly state that the DEBI-NN binary does not describe any product and it
 
 Please note that our paper describing DEBI-NNs as well as its predictive performance comparison with conventional NNs is currently in review. We strongly believe in the values of scientific integrity. Therefore, as long as our paper is in review and not accepted for publication, we do not recommend to rely on this repository to render any decisions related to your use cases.
 
-With that being said, we strongly recommend to investigate the contents of this repository only if you are the reviewer of our paper. Note that we will update this repository with up-to-date information in case our paper undergoes a proper peer review and its publication stage changes.
+With that being said, we strongly recommend to investigate the contents of this repository only if you are the reviewer of our paper. Note that we will update this repository in case our paper undergoes a proper peer review and its publication stage changes.
 
 ## License
 Software, apps, algorithms, written by MUV employees are protected by copyright. MUV has the exclusive right-of-use with all rights reserved. Contact the Technology Transfer Office (TTO) of MUV in case you wish to use our solution in a commercial environment: https://www.meduniwien.ac.at/web/en/research/technologies-and-services/technology-transfer-office/
@@ -43,7 +43,7 @@ See an example of DEBI-NN models built over one fold of a tabular data under "Ex
 **Note**:
 - Loading up 1000 pre-built model schemes may take a few seconds and during the loading process the GUI might be in a non-responsive stage. Patience is your friend here, until we implement a progress bar.
 - In case you save a view or batch save multiple views in the 3D viewer application, a "Screenshots" folder will be created under your project folder. In this folder your screenshots will be stored in PNG format.
-- We created 1000 model variants and placed them under "Examples/Models" for your convenience. Note that currently, there is no way to store models being built during a cross-validation process. We will upate our code soon to allow this option.
+- We created 1000 model variants and placed them under "Examples/Models" for your convenience. Note that currently, there is no way to store models being built during a cross-validation process. We will update our code soon to allow this option.
 
 
 ### How to run DEBI-NN on Linux
