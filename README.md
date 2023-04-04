@@ -59,7 +59,7 @@ To run DEBI-NN with Use Case 2, launch the test application:
 ```
 ./TestApplication/TestApplication /path/to/project -v
 ```
-where `/path/to/project` is the project path containing the subfolder "Models" (see Access for use cases) ans -v indicates Visualization mode.
+where `/path/to/project` is the project path containing the subfolder "Models" (see Access for use cases) and -v indicates Visualization mode.
 
 Requirements
 
@@ -83,7 +83,7 @@ To run DEBI-NN with Use Case 2, launch the test application:
 ```
 TestApplication/TestApplication.exe /path/to/project -v
 ```
-where `/path/to/project` is the project path containing the subfolder "Models" (see Access for use cases) ans -v indicates Visualization mode.
+where `/path/to/project` is the project path containing the subfolder "Models" (see Access for use cases) and -v indicates Visualization mode.
 
 
 ## Citation
