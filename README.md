@@ -11,9 +11,6 @@ For a video example of how a DEBI-NN is trained over an open-source tabular data
 ## Intended Use
 We explicitly state that the DEBI-NN binary does not describe any product and it is not intended to be used in any real-life, especially not in clinical settings. This repository contains description and examples of a research tool for experimenting with biomorphic and informational neural network schemes. Therefore, the contents of this repository shall not be used either partly or fully for rendering clinical decisions or to be included in any product. We waive any liabilities for any damage caused by the executables.
 
-Please note that our paper describing DEBI-NNs as well as its predictive performance comparison with conventional NNs is currently in review. We strongly believe in the values of scientific integrity. Therefore, as long as our paper is in review and not accepted for publication, we do not recommend to rely on this repository to render any decisions related to your use cases.
-
-With that being said, we strongly recommend to investigate the contents of this repository only if you are the reviewer of our paper. Note that we will update this repository in case our paper undergoes a proper peer review and its publication stage changes.
 
 ## License
 Software, apps, algorithms, written by MUV employees are protected by copyright. MUV has the exclusive right-of-use with all rights reserved. Contact the Technology Transfer Office (TTO) of MUV in case you wish to use our solution in a commercial environment: https://www.meduniwien.ac.at/web/en/research/technologies-and-services/technology-transfer-office/
@@ -89,4 +86,8 @@ where `/path/to/project` is the project path containing the subfolder "Models" (
 ## Citation
 For the preprint version of our paper see https://www.researchsquare.com/article/rs-2384764/v1.
 
-Note that our paper is currently in review.
+For the published paper see https://www.sciencedirect.com/science/article/pii/S089360802300446X.
+
+Please cite this article as: L. Papp, D. Haberl, B. Ecsedi et al., DEBI-NN: Distance-encoding
+biomorphic-informational neural networks for minimizing the number of trainable parameters.
+Neural Networks (2023), doi: https://doi.org/10.1016/j.neunet.2023.08.026.
