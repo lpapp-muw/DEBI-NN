@@ -84,10 +84,8 @@ where `/path/to/project` is the project path containing the subfolder "Models" (
 
 
 ## Citation
-For the preprint version of our paper see https://www.researchsquare.com/article/rs-2384764/v1.
-
-For the published paper see https://www.sciencedirect.com/science/article/pii/S089360802300446X.
-
 Please cite this article as: L. Papp, D. Haberl, B. Ecsedi et al., DEBI-NN: Distance-encoding
 biomorphic-informational neural networks for minimizing the number of trainable parameters.
 Neural Networks (2023), doi: https://doi.org/10.1016/j.neunet.2023.08.026.
+
+For the published paper see https://www.sciencedirect.com/science/article/pii/S089360802300446X.
