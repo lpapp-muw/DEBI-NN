@@ -13,8 +13,6 @@ We explicitly state that the DEBI-NN binary does not describe any product and it
 
 
 ## License
-Software, apps, algorithms, written by MUV employees are protected by copyright. MUV has the exclusive right-of-use with all rights reserved. 
-
 In case you wish to use our solution in a commercial environment please contact the Technology Transfer Office (TTO) of MUV: https://www.meduniwien.ac.at/technologietransfer
 
 Contact the correspondig author (Laszlo Papp, PhD, e-mail: laszlo.papp@meduniwien.ac.at) in case you are interested in research collaborations regarding the utilization of DEBI-NNs.
