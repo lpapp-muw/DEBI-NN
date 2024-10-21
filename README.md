@@ -1,3 +1,6 @@
+# Special note for EANM 2024 Attendees
+If you saw our presentation **#1505 in the Cutting Edge Science Track - TROP Session: Physics Committee: Radiomics** at EANM 2024, you might have got here to test our solution. Please note that this repository does not yet contain the changes we presented at EANM 2024. We are very near to finalize our manuscript, and with that, we will also update this repository with the latest DEBI-NN version, including an extensive handbook for future use. Until then, reach out to laszlo.papp@meduniwien.ac.at if you have questions.
+
 # Distance-Encoding Biomorphic-Informational Neural Networks (DEBI-NN)
 This repository contains information about the DEBI-NN concept, implemented by researchers of the Medical University of Vienna (MUV), Vienna, Austria. The development is conducted at the Center for Medical Physics and Biomedical Engineering (main developer: Laszlo Papp, PhD, e-mail: laszlo.papp@meduniwien.ac.at), under the umbrella of projects, conducted by the [Applied Quantum Computing (AQC) group](https://mpbmt.meduniwien.ac.at/en/research/quantum-computing/).
 
