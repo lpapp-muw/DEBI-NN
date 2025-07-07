@@ -23,7 +23,7 @@ We explicitly state that the DEBI-NN binary does not describe any product and it
 
 We wrote an extensive handbook titled "Mastering Distance-Encoding Biomorphic Neural Networks – The DEBI-NN Handbook" which provides detailed explanations about the general concept and behaviour of DEBI-NNs, and it details all parameters modifiable for training DEBI-NN models on tabular data.
 
-To access the Handbook see DOI: 10.5281/zenodo.15827443 or https://zenodo.org/records/15827444.
+To access the Handbook see DOI: 10.5281/zenodo.15827443 or https://doi.org/10.5281/zenodo.15827443.
 
 
 ## Usability
