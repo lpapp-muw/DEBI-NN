@@ -39,13 +39,13 @@ See the DEBI-NN eecutables in "Binaries".
 See the consolidated results of the DEBI-NN execution in "Results". These results are derived by relying on the data stored in "Executions".
 
 
-### How to run DEBI-NN
+## How to run DEBI-NN
 
 Read the Handbook for all details regarding the usage of the DEBI-NN approach.
 
 **Note**:
 
-We use Mersenne Twister C++ random generators in our implementation with a fixed seeds. Nevertheless, differences in job management of operating systems (OS), floating point value representations, external libraries as well as CPU parallelization (Open MP) may result in non-deterministic results. What we guarantee is that on the same computer and configuration, the same repeated execution yields the same result.
+We use Mersenne Twister C++ random generators in our implementation with fixed seeds. Nevertheless, differences in job management of operating systems (OS), floating point value representations, external libraries as well as CPU parallelization (Open MP) may result in non-deterministic results. What we guarantee is that on the same computer and configuration, the same repeated execution yields the same result.
 
 
 ## Citation
