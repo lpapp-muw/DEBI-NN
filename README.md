@@ -8,6 +8,14 @@ For a video example of how a DEBI-NN is trained over an open-source tabular data
 
 [YouTube: Distance-Encoding Biomorphic-Informational (DEBI) Neural Network training process example](https://youtu.be/S4Dj5qc7Rno)
 
+## License
+
+This repository has Creative Commons Attribution-Noncommercial-NoDerivatives 4.0 (CC BY-NC-ND 4.0) license.
+
+In case you wish to use our solution in a commercial environment please contact the Technology Transfer Office (TTO) of MedUni Wien: https://www.meduniwien.ac.at/technologietransfer
+
+Contact the corresponding author (Laszlo Papp, PhD, e-mail: laszlo.papp@meduniwien.ac.at) in case you are interested in research collaborations regarding the utilization of DEBI-NNs and if you wish to access the source code of the project. Currently, no source code is shared here due to the fact that LLM data grabbers reportedly do not respect copyright law.
+
 ## Intended Use
 We explicitly state that the DEBI-NN binary does not describe any product and it is not intended to be used in any real-life, especially not in clinical settings. This repository contains description and examples of a research tool for experimenting with novel biomorphic neural network schemes. Therefore, the contents of this repository shall not be used either partly or fully for rendering clinical decisions or to be included in any product. We waive any liabilities for any damage caused by the executables.
 
@@ -18,34 +26,26 @@ We wrote an extensive handbook titled "Mastering Distance-Encoding Biomorphic Ne
 To access the Handbook see DOI: 10.5281/zenodo.15827443 or https://zenodo.org/records/15827444.
 
 
-## License
-
-This repository has Creative Commons Attribution-Noncommercial-NoDerivatives 4.0 (CC BY-NC-ND 4.0) license.
-
-In case you wish to use our solution in a commercial environment please contact the Technology Transfer Office (TTO) of MedUni Wien: https://www.meduniwien.ac.at/technologietransfer
-
-Contact the corresponding author (Laszlo Papp, PhD, e-mail: laszlo.papp@meduniwien.ac.at) in case you are interested in research collaborations regarding the utilization of DEBI-NNs and if you wish to access the source code of the project. Currently, no source code is shared here due to the fact that LLM data grabbers reportedly do not respect copyright law.
-
 ## Usability
 Given, that the purpose with this work is to conduct research investigations and to communicate the findings of such research, repeatability of our findings is important for us. Note, however, that our current DEBI-NN implementation is CPU-only. Hence, the execution time of building DEBI-NNs is currently considerably slower than open-source (e.g., scikit-learn or TensorFlow) conventional NN algorithms, that are operating with GPUs. Our C++ implementation relies on parallel computing on CPU (OMP), and hence, does not require the presence of any GPUs to utilize it.
 
 
 ## Access
 
-See the best models we identified in our latest study un "BestModels". Here, the saved models are located that can be loaded by the DEBI-NN application and can be visualized in a viewer. For details see the Handbook.
+See the best models we identified in our latest study in "BestModels". Here, the saved models are located that can be loaded by the DEBI-NN application and can be visualized in a viewer. For details see the Handbook.
 
-See the Windows and Linux executables in "Binaries".
+See the DEBI-NN eecutables in "Binaries".
 
 See the consolidated results of the DEBI-NN execution in "Results". These results are derived by relying on the data stored in "Executions".
 
 
-**Note**:
-
-We use Mersenne Twister C++ random generators in our implementation with a fixed seeds. Nevertheless, differences in job management of operating systems (OS), floating point value representations, external libraries as well as CPU parallelization (Open MP) may result in non-deterministic results. What we guarantee is that on the same computer and configuration, the same repeated execution yields the same result.
-
 ### How to run DEBI-NN
 
 Read the Handbook for all details regarding the usage of the DEBI-NN approach.
+
+**Note**:
+
+We use Mersenne Twister C++ random generators in our implementation with a fixed seeds. Nevertheless, differences in job management of operating systems (OS), floating point value representations, external libraries as well as CPU parallelization (Open MP) may result in non-deterministic results. What we guarantee is that on the same computer and configuration, the same repeated execution yields the same result.
 
 
 ## Citation
