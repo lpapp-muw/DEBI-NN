@@ -23,7 +23,7 @@ We explicitly state that the DEBI-NN binary does not describe any product and it
 
 We wrote an extensive handbook titled "Mastering Distance-Encoding Biomorphic Neural Networks – The DEBI-NN Handbook" which provides detailed explanations about the general concept and behaviour of DEBI-NNs, and it details all parameters modifiable for training DEBI-NN models on tabular data.
 
-To access the Handbook see DOI: 10.5281/zenodo.15827443 or https://doi.org/10.5281/zenodo.15827443.
+To access the Handbook see https://doi.org/10.5281/zenodo.15828851
 
 
 ## Usability
@@ -52,7 +52,7 @@ We use Mersenne Twister C++ random generators in our implementation with fixed s
 
 ### Handbook
 
-Papp, L. (2025). Mastering Distance-Encoding Biomorphic Neural Networks – The DEBI-NN Handbook (1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.15827443
+Papp, L. (2025). Mastering Distance-Encoding Biomorphic Neural Networks – The DEBI-NN Handbook (1.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.15828851
 
 ### PAPER I
 
