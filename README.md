@@ -52,7 +52,7 @@ We use Mersenne Twister C++ random generators in our implementation with fixed s
 
 ### Handbook
 
-Papp, L. (2025). Mastering Distance-Encoding Biomorphic Neural Networks – The DEBI-NN Handbook (1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.15827444
+Papp, L. (2025). Mastering Distance-Encoding Biomorphic Neural Networks – The DEBI-NN Handbook (1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.15827443
 
 ### PAPER I
 
