@@ -34,9 +34,9 @@ Given, that the purpose with this work is to conduct research investigations and
 
 See the best models we identified in our latest study in `DEBI-NN/BestModels/`. Here, the saved models are located that can be loaded by the DEBI-NN application and can be visualized in a viewer. For details see the Handbook.
 
-See the DEBI-NN eecutables in `DEBI-NN/Binaries/`.
+See the DEBI-NN executables in `DEBI-NN/Binaries/`.
 
-See the consolidated results of the DEBI-NN execution in "Results". These results are derived by relying on the data stored in `DEBI-NN/Executions/`.
+See the consolidated results of the DEBI-NN execution in `DEBI-NN/Results/`. These results are derived by relying on the data stored in both the readily-executable `DEBI-NN/Executions/` including execution configurations and `DEBI-NN/Datasets/`.
 
 To train our fully-connected multi-layer perceptron BaselineNN models, see instructions in `DEBI-NN/BaselineSource/`.
 
