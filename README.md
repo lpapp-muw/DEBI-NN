@@ -27,7 +27,7 @@ To access the Handbook see https://doi.org/10.5281/zenodo.15828851
 
 
 ## Usability
-Given, that the purpose with this work is to conduct research investigations and to communicate the findings of such research, repeatability of our findings is important for us. Note, however, that our current DEBI-NN implementation is CPU-only. Hence, the execution time of building DEBI-NNs is currently considerably slower than open-source (e.g., scikit-learn or TensorFlow) conventional NN algorithms, that are operating with GPUs. Our C++ implementation relies on parallel computing on CPU (OMP), and hence, does not require the presence of any GPUs to utilize it.
+Given, that the purpose with this work is to conduct research investigations and to communicate the findings of such research, repeatability of our findings is important for us. Note, however, that our current DEBI-NN implementation is CPU-only. Hence, the execution time of building DEBI-NNs is currently considerably slower than open-source (e.g., scikit-learn or TensorFlow) conventional NN algorithms, that are operating with GPUs. Our C++ implementation relies on parallel computing on CPU (OMP), and hence, does not require the presence of any GPUs to utilize it. For the Baseline NN training, however, GPUs can be utilized if available.
 
 
 ## Access
