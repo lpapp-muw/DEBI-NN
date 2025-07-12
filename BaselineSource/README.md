@@ -32,7 +32,9 @@ This script provides a pipeline for training and evaluating fully-connected neur
 ## Usage
 
 1. **Access data and configure paths:** access data from
+   
    DEBI-NN/
+   
    ├── Datasets/
 
    and configure data source paths
