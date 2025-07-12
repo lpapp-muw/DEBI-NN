@@ -31,17 +31,23 @@ This script provides a pipeline for training and evaluating fully-connected neur
 
 ## Usage
 
-1. **Prepare your data and configure paths:** ensure every CSV includes a Key column to align features and labels
+1. **Access data and configure paths:** access data from
+   DEBI-NN/
+   ├── Datasets/
 
-2. **Configure main.py**
+   and configure data source paths
+
+3. **Configure main.py**
     - data_dir: list of dataset paths
     - experiment_id: matching list of IDs
     - layouts & hidden_neuron_count: network architectures to test
     - Set regularization flags and hyperparameters in calls to run_comparison / run_all_configurations
 
-3. **Run experiments:** for a single configuration or all configurations defined
+4. **Run experiments:** for a single configuration or all configurations defined
 
 ## Outputs
+
+If no output directories are scpecified, a `results` directory will be created and all results will be saved inside such as:
 
 - `results/{exp_id}_{layout}_results.csv` — metric summaries  
 - `results/{exp_id}/trained_models/*.pt` — best model weights
