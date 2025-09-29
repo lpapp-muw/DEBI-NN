@@ -54,19 +54,22 @@ We use Mersenne Twister C++ random generators in our implementation with fixed s
 
 ### Handbook
 
-Papp, L. (2025). Mastering Distance-Encoding Biomorphic Neural Networks – The DEBI-NN Handbook (1.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.15828851
+Papp, L. (2025). Mastering Distance-Encoding Biomorphic Neural Networks – The DEBI-NN Handbook (1.0.2) [Computer software]. Zenodo. https://zenodo.org/records/17224628.
 
 ### PAPER I
 
-Our first paper introducing the concept of DEBI-NNs is published in Elsevier Neural Networks.
+Our first paper introducing the concept of DEBI-NNs is published in Neural Networks (Elsevier).
 
-Please cite this article as: L. Papp, D. Haberl, B. Ecsedi et al., DEBI-NN: Distance-encoding
+Please cite this article as: L Papp, D Haberl, B Ecsedi et al., DEBI-NN: Distance-encoding
 biomorphic-informational neural networks for minimizing the number of trainable parameters.
-Neural Networks (2023), doi: https://doi.org/10.1016/j.neunet.2023.08.026.
+Neural Networks (2023), DOI: https://doi.org/10.1016/j.neunet.2023.08.026.
 
 For the published paper see https://www.sciencedirect.com/science/article/pii/S089360802300446X
 
 ### PAPER II
 
-Our second paper focusing on the effect of regularization s on DEBI-NN predictive performance is currently in review.
+Our second paper focusing on the effect of regularization s on DEBI-NN predictive performance is published in EANM Innovation (Elsevier).
 
+Please cite this article as: B Ecsedi, A Boukhari, C P. Spielvogel, D Haberl, Zs Ritter, R A Bundschuh, C Lapa, M Hacker, M Hatt, L Papp,
+Impact of regularization in optimizing distance-encoding biomorphic-informational neural networks for small nuclear medicine datasets,
+EANM Innovation, Volume 1, 2025, 100008, ISSN 3051-2913, DOI: https://doi.org/10.1016/j.eanmi.2025.100008.
