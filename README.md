@@ -64,8 +64,6 @@ Please cite this article as: L Papp, D Haberl, B Ecsedi et al., DEBI-NN: Distanc
 biomorphic-informational neural networks for minimizing the number of trainable parameters.
 Neural Networks (2023), DOI: https://doi.org/10.1016/j.neunet.2023.08.026.
 
-For the published paper see https://www.sciencedirect.com/science/article/pii/S089360802300446X
-
 ### PAPER II
 
 Our second paper focusing on the effect of regularization s on DEBI-NN predictive performance is published in EANM Innovation (Elsevier).
