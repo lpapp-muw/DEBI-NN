@@ -1,3 +1,6 @@
+# Important Notice
+This repository is obsolete will not be maintained further. The story of DEBI-NN continues through a university spin-off with more resources invested in to push the underlying concept the way it deserves. We will share a successor repository link here once it is set up.
+
 # Distance-Encoding Biomorphic-Informational Neural Networks (DEBI-NN)
 This repository contains information about the DEBI-NN concept, implemented by researchers of the Medical University of Vienna (MedUni Wien), Vienna, Austria. The development is conducted at the Center for Medical Physics and Biomedical Engineering (main developer: Laszlo Papp, PhD, e-mail: laszlo.papp@meduniwien.ac.at), under the umbrella of projects, conducted by the [Applied Quantum Computing (AQC) group](https://mpbmt.meduniwien.ac.at/en/research/quantum-computing/).
 
